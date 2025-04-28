@@ -1,3 +1,4 @@
+![logo](https://github.com/NudratAbbas/NudratAbbas/blob/main/Red%20Modern%20Multipurpose%20YouTube%20Banner_20250428_173533_0000.png)
 <h1 align="center">Hi 👋, I'm Nudrat Abbas</h1>
 <h3 align="center">A Data Analyst from Lahore, Pakistan.</h3>
 
