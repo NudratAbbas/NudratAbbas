@@ -41,3 +41,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nudratabbas&" alt="nudratabbas" /></p>
 ```
+
+![GitHub Snake Animation](https://github.com/NudratAbbas/NudratAbbas/blob/output/github-contribution-grid-snake.svg)
